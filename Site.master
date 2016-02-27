@@ -25,10 +25,10 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">                                                
-                        <li><a runat="server" href="~/Services_Men_Hair.aspx">Men</a></li>
-                        <li><a runat="server" href="~/Services">Women</a></li>
-                        <li><a runat="server" href="~/Contact">Specials</a></li>
-                        <li><a runat="server" href="~/About">About Us</a></li>
+                        <li><a runat="server" href="~/Services_Men_Skin.aspx">Men</a></li>
+                        <li><a runat="server" href="~/Services_Women_Skin.aspx">Women</a></li>
+                        <li><a runat="server" href="~/Services_Specials.aspx">Specials</a></li>
+                        <li><a runat="server" href="~/AboutUs.aspx">About Us</a></li>
                     </ul>  
                     <div style="float:right;margin-top:5px;"><img src="images/canadaFlagSmall.gif" width="81" height="41"/></div>                  
                 </div>

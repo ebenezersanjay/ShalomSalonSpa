@@ -1,7 +1,7 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Content_Men.master" AutoEventWireup="true" CodeFile="Services_Men_Skin.aspx.cs" Inherits="Service_Men_Skin" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Content_Women.master" AutoEventWireup="true" CodeFile="Services_Women_Skin.aspx.cs" Inherits="Service_Men_Skin" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ImageContent" runat="server">
-    <div><img src="images/shalomsalonspa_male_facial.png" />
+    <div><img src="images/shalomalonspa-women-skincare.png" />
     </div>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="DescriptionContent" runat="server">

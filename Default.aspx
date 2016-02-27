@@ -10,14 +10,14 @@
     </div>    
     <div class="row" style="margin:5px;">&nbsp;</div>
     <div class="row">
-        <div class="col-md-4" style="width:315px;cursor:pointer;" onclick="location.href='Services_Men_Hair.aspx'">
+        <div class="col-md-4" style="width:315px;cursor:pointer;" onclick="location.href='Services_Men_Skin.aspx'">
             <h2>Services for Men</h2>
             <p>
                 <asp:Image ID="img_male_haircut" runat="server" AlternateText="image male haircut" Height="171px" ImageAlign="Top" ImageUrl="~/images/male_haircut.png" Width="275px" />
             </p>
             <p>Services for men include hair cuts, color, highlights, laser hair removal, facials, eyebrow threading, manicures and pedicures.</p>                 
         </div>
-        <div class="col-md-4" style="width:315px;">
+        <div class="col-md-4" style="width:315px;cursor:pointer;" onclick="location.href='Services_Women_Hair.aspx'">
             <h2>Services for Women</h2>
             <p>
                 <asp:Image ID="img_female_threading" runat="server" AlternateText="image female threading" Height="171px" ImageUrl="~/images/female_threading.png" Width="275px" />
